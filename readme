@@ -40,3 +40,15 @@ The author does NOT condone or support any illegal activities. This tool is prov
 ---
 
 **I DO NOT TAKE RESPONSIBILITY FOR YOUR ACTIONS. USE AT YOUR OWN RISK.**
+
+
+
+
+------------------------------------------------------------
+          This tape to install 
+        pkg update && pkg upgrade -y
+        pkg install git -y
+        git clonehttps://github.com/hack1829/ShodwnSuite.git
+        cd ShodwnSuite
+        pip install -r requirements.txt
+        python main.py or ls *.py
